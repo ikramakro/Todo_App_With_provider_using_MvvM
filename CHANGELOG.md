@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2021-12-09: chore(db): fix pagination offset
 - 2021-05-18: chore(db): fix memory leak in worker
 - 2025-09-03: docs(auth): handle empty payload
 - 2024-03-06: perf(auth): add session handling
