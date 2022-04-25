@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2022-04-25: Clean up unused imports
 - 2022-02-15: feat(middleware): remove dead code
 - 2021-12-09: chore(db): fix pagination offset
 - 2021-05-18: chore(db): fix memory leak in worker
