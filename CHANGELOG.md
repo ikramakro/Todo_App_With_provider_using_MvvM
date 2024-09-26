@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-26: chore(api): fix CORS headers
 - 2022-04-25: Clean up unused imports
 - 2022-02-15: feat(middleware): remove dead code
 - 2021-12-09: chore(db): fix pagination offset
